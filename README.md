@@ -42,6 +42,7 @@ The output of a sorting algorithm should satisfy two conditions:
 * 10, 000 items: 5 operations
 
 `O(2^n)` - Known as **Exponential complexity**
+
 `O(n!)` - Known as **Factorial time**
 
 * `O(1)` - Excellent/Best
