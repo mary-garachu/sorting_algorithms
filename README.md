@@ -18,7 +18,7 @@ The output of a sorting algorithm should satisfy two conditions:
 * The output is monotonic, each element is smaller/bigger than the next element.
 * The output is a permutation (a reordering of elements in the list).
 
-**Big O Notation**
+### Big O Notation
 `O(n^2)` - Known as **Quadratic Complexity**
 * 1 item: 1 operation
 * 10 items: 100 operations
